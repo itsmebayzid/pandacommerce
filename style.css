@@ -12,10 +12,23 @@
     color:#ff136f;
 }
 .buy-now-button{
-    background-image: linear-gradient(to bottom,#fceae8 0%,#ff136f 100%);
+    background-image: linear-gradient(to bottom,#fceae8 10%,#ff136f 100%);
     color:#fceae8;
     border: none;
     border-radius: 8px;
     padding: 9px 25px;
     cursor: pointer;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10%;
+}
+.cat1{
+    background-image: linear-gradient(to bottom,orchid 0%,#6f1d04ce 100%);
+}
+.cat2{
+    background-image: linear-gradient(to bottom,orchid 0%,rgba(73, 73, 131, 0.849) 100%);
+}
+.cat3{
+    background-image: linear-gradient(to bottom,orchid 0%,#f73e26 100%);
 }
